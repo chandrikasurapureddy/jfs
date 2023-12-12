@@ -1,0 +1,46 @@
+.navbar-expand-1g .navbar-nav .nav-link{
+    padding-right:  .5rem;
+    padding-left:  .5rem;
+    color: aliceblue;
+    font-size:  1.2ram;
+}
+video{
+    max-width: 100%;
+}
+.container1{
+    background-color: rgb(179, 162, 162);
+    display: flex;
+}
+.container1 img{
+    width: 400px;
+    height: 400px;
+    margin: 2% 6%;
+}
+.container1 .title{
+    padding: 2% 2%;
+}
+ .container2{
+    background-color: rgb(235, 160, 176);
+    display: flex;
+}
+.container2 img{
+    width: 500px;
+    height: 300px;
+    margin: 2% 6%;
+}
+.container2 .title{
+    padding: 2% 2%;
+}
+.container3{
+    background-color: rgb(66, 219, 219);
+    display: flex;
+
+}
+.container3 img{
+    width:300px ;
+    height: 300px;
+    margin: 2% 6%;
+}
+.container3 .title{
+    padding: 2% 2%;
+}
